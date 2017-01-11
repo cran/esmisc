@@ -1,0 +1,12 @@
+85cbd934d4aa6943aa482b94ff0b3648 *DESCRIPTION
+4b1ac08c4aa7a054b6ff1707d8933c76 *LICENSE
+8cf1d23c12c5753e02a3128ae25ea618 *NAMESPACE
+e5b837259d3b42da23f95d074bf895f3 *NEWS
+fcdb5209a031ae5c8f70bc0829ff9fae *R/read_regnie.R
+0452b004ee3263998914f8d996b88dfe *R/theme_edi.R
+2abd95ff1e5f089cf96ffc64bf7ccb9e *inst/extdata/ra050120.gz
+fa5d29e6a9a346b32f7bf5a7d9669499 *man/read_regnie.Rd
+9158e1672674f447964c874cf740e230 *man/theme_edi.Rd
+db60348dd11cd5f95f248c3aaa4a67ef *tests/testthat.R
+a43684f32d73fe0994e80bff79e3bfee *tests/testthat/test-read_regnie.R
+e9502022f50f8d08eb1efcccf136429e *tests/testthat/test-themes.R
